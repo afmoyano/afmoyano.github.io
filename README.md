@@ -1,6 +1,5 @@
  [ 🇪🇸 Español | [🇬🇧 English Version](https://afmoyano.github.io/en) ]
 
-
 # **Alejandro Federico Moyano**
 
 **Ejecutivo de cuentas B2B | Desarrollo de negocios y ventas corporativas**  
