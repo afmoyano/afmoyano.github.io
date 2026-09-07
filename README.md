@@ -1,4 +1,16 @@
+<style>
+@media print {
+  .no-print {
+    display: none !important;
+  }
+}
+</style>
+
+<div class="no-print">
+
 [ 🇪🇸 Español | [🇬🇧 English Version](https://afmoyano.github.io/en) ]
+
+</div>
 
 # **Alejandro Federico Moyano**
 **Ejecutivo de cuentas B2B | Desarrollo de negocios y ventas corporativas**  
