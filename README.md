@@ -69,8 +69,8 @@ Ejecutivo comercial con amplia trayectoria en la estructuración de canales de v
 * **Entornos operacionales:** Dominio avanzado de Linux, macOS y Microsoft Windows.
 
 ### **Formación académica y certificaciones**
-* **Técnico en Industria y Artes Gráficas** | Fundación Gutenberg (1998 – 2004).
-* **Programador Full Stack / Backend** | Argentina Programa 4.0 / Egg Corporation.
+* **Técnico en Industria y Artes Gráficas** - Fundación Gutenberg (1998 – 2004).
+* **Programador Full Stack / Backend** - Argentina Programa 4.0 / Egg Corporation.
 * **Idiomas:** Inglés nivel avanzado.
 
 ### **Intereses y competencias complementarias**
