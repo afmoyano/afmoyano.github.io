@@ -2,7 +2,7 @@
 
 # **Alejandro Federico Moyano**
 **Ejecutivo de cuentas B2B | Desarrollo de negocios y ventas corporativas**  
-CABA, Buenos Aires | 11-6282-6650 | afmoyano@proton.me | [Perfil de LinkedIn](https://www.linkedin.com/in/alejandro-federico-moyano) | [Portafolio web](https://afmoyano.github.io/)
+CABA, Buenos Aires | 11-6282-6650 | [afmoyano@proton.me](mailto:afmoyano@proton.me) | [Perfil de LinkedIn](https://www.linkedin.com/in/alejandro-federico-moyano) | [Portafolio web](https://afmoyano.github.io/)
 
 ---
 
