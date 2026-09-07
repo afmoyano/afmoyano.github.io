@@ -7,7 +7,7 @@ title: Alejandro Federico Moyano - B2B Account Manager
 
 # **Alejandro Federico Moyano**
 **B2B Account Manager | Business Development & Corporate Sales Executive**  
-CABA, Buenos Aires | 11-6282-6650 | afmoyano@proton.me | [LinkedIn Profile](https://www.linkedin.com/in/alejandro-federico-moyano) | [Web Portfolio](https://afmoyano.github.io/en)
+CABA, Buenos Aires | 11-6282-6650 | [afmoyano@proton.me](mailto:afmoyano@proton.me) | [LinkedIn Profile](https://www.linkedin.com/in/alejandro-federico-moyano) | [Web Portfolio](https://afmoyano.github.io/en)
 
 ## Professional Summary
 Commercial Executive with extensive experience in structuring B2B sales channels, key account management, and operational team leadership. I combine a solid track record in High-Ticket consultative selling with advanced technical skills (data analysis with Python, ERP systems, and process automation). This allows me to optimize the full sales cycle: from strategic outbound prospecting and corporate negotiation to customer retention and account expansion. Goal-oriented towards high-performance commercial metrics and sustainable portfolio growth in SMB and corporate environments.
