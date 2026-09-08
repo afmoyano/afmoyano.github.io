@@ -32,7 +32,7 @@ Commercial Executive with extensive experience in structuring B2B sales channels
 * **Operational Control & Auditing:** Responsible for branch operations and stock audits in key locations, maintaining zero-deviation standards.
 
 ### Grupo Carsa S.A.
-**Senior Sales Representative & Intangibles Advisor** | February 2012 - August 2018
+**Senior Financial & Intangible Products Sales Executive** | February 2012 - August 2018
 * **High Performance Sales:** Consistently ranked in the company's Top 10 national sales leaderboard, exceeding monthly revenue targets.
 * **Financial Products & Intangibles:** Specialized in high-margin financial products (insurance, extended warranties, and personal loans via Corefin S.A.).
 * **Team Training & Leadership:** Acted as a key commercial reference for management, conducting internal workshops on negotiation and sales techniques.
