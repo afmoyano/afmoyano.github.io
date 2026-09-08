@@ -2,6 +2,7 @@
 layout: default
 title: Alejandro Federico Moyano - B2B Account Manager & Business Development
 description: "Professional profile of Alejandro Federico Moyano. Commercial Executive specialized in B2B sales channels, key account management, and process automation."
+permalink: /en/
 ---
 
 [ [🇪🇸 Versión en Español](https://afmoyano.github.io/) | 🇬🇧 English Version ]
