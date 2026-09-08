@@ -34,7 +34,7 @@ Commercial Executive with extensive experience in structuring B2B sales channels
 * **Operational Control & Auditing:** Responsible for branch operations and stock audits in key locations, maintaining zero-deviation standards.
 
 ### Grupo Carsa S.A.
-**Senior Financial & Intangible Products Sales Executive** | February 2012 - August 2018
+**Senior Sales Executive & Financial Products Consultant** | February 2012 - August 2018
 * **High Performance Sales:** Consistently ranked in the company's Top 10 national sales leaderboard, exceeding monthly revenue targets.
 * **Financial Products & Intangibles:** Specialized in high-margin financial products (insurance, extended warranties, and personal loans via Corefin S.A.).
 * **Team Training & Leadership:** Acted as a key commercial reference for management, conducting internal workshops on negotiation and sales techniques.
@@ -43,7 +43,7 @@ Commercial Executive with extensive experience in structuring B2B sales channels
 ## Business Development, B2B Consulting & Operations Experience
 
 ### Estudio 2A
-**B2B Commercial Consultant & Outbound Prospecting** | 2024 - 2026
+**B2B Commercial & Outbound Prospecting Consultant** | 2024 - 2026
 * **Data-Driven Sales:** Developed custom Python scripts for automated data scraping, extraction, and lead segmentation targeting academic and publishing institutions across Ibero-America.
 * **New Business Unit Development (SaaS & Services):** Created and commercialized technical consulting services for the *gbpublisher* platform, expanding the B2B services portfolio.
 
@@ -53,7 +53,7 @@ Commercial Executive with extensive experience in structuring B2B sales channels
 * **Process Optimization:** Collaborated in developing a custom catalog management system, reducing response times for international branches.
 
 ### Ediciones Imago Mundi
-**Project Manager & Vendor Negotiation** | 2015 - 2024
+**Project Manager - Procurement & Operations** | 2015 - 2024
 * **Supply Chain & Procurement:** Cost control, direct vendor negotiations (printers, designers), and delivery timeline assurance.
 
 ## Core Competencies, Tools & Education
