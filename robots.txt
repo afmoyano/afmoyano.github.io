@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://afmoyano.github.io/sitemap.xml
