@@ -25,7 +25,7 @@ Commercial Executive with extensive experience in structuring B2B sales channels
 * **End-to-End Sales Cycle Management:** Oversaw the entire commercial channel: lead prospecting, credit terms negotiation, invoicing, dispatch, and post-sales tracking.
 
 ### La Cardeuse S.A.
-**Sales Executive & Commercial Advisor** | January 2019 - January 2020
+**Senior Sales Representative & Intangible Products Specialist** | January 2019 - January 2020
 * **High-Ticket Consultative Selling:** Provided personalized advisory to high-net-worth clients, closing high-end product solutions.
 * **Sales Pipeline Management:** Designed and implemented a follow-up tracking system for pending quotes, increasing lead conversion and recovering sales opportunities.
 * **Cross-Selling Strategy:** Led branch metrics in complementary high-margin product sales.
