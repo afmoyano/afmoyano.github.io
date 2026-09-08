@@ -1,5 +1,6 @@
 title: Alejandro Federico Moyano
 url: "https://afmoyano.github.io"
+permalink: /:basename/
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-sitemap
