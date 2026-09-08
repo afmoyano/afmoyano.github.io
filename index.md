@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Alejandro Federico Moyano | Ejecutivo Comercial B2B & Desarrollo de Negocios
+title: Alejandro Federico Moyano - Ejecutivo Comercial B2B & Desarrollo de Negocios
 description: "Perfil profesional de Alejandro Federico Moyano. Especialista en ventas consultivas B2B, desarrollo de cuentas clave y optimización de procesos comerciales."
 ---
 
