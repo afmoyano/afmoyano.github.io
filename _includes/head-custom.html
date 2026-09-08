@@ -1,0 +1,20 @@
+<!-- Enlaces bilingües para motores de búsqueda (Google) -->
+<link rel="alternate" hreflang="es" href="https://afmoyano.github.io/" />
+<link rel="alternate" hreflang="en" href="https://afmoyano.github.io/en" />
+<link rel="alternate" hreflang="x-default" href="https://afmoyano.github.io/" />
+
+<!-- Metaetiqueta de idioma dinámico -->
+{% if page.url == "/en" or page.url == "/en.html" %}
+  <meta http-equiv="content-language" content="en" />
+{% else %}
+  <meta http-equiv="content-language" content="es" />
+{% endif %}
+
+<!-- Open Graph para vistas previas en LinkedIn, WhatsApp y redes sociales -->
+<meta property="og:title" content="{{ page.title }}" />
+{% if page.description %}
+<meta property="og:description" content="{{ page.description }}" />
+{% endif %}
+<meta property="og:type" content="profile" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+<meta property="og:site_name" content="Alejandro Federico Moyano" />
