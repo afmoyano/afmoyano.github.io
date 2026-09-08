@@ -15,7 +15,7 @@ Ejecutivo comercial con amplia trayectoria en la estructuración de canales de v
 ## **Experiencia laboral**
 
 ### **Inti Pet Shop SRL**
-**Responsable comercial y B2B account manager** | Febrero de 2020 – Julio de 2026
+**Responsable comercial y gestor de cuentas B2B** | Febrero de 2020 – Julio de 2026
 * **Liderazgo integral y gestión de cuentas:** Conducción directa de la operación general de la distribuidora, liderando un equipo interdisciplinario de 10 personas (4 en área comercial y administrativa, 6 en logística).
 * **Transformación digital e implementación ERP:** Planificación y puesta en marcha del ERP Flexxus Enterprise, migrando los procesos comerciales desde planillas tradicionales a una gestión centralizada y automatizada.
 * **Desarrollo y fidelización de cartera B2B:** Consolidación y segmentación de una cartera activa de 1785 clientes corporativos y mayoristas a nivel nacional, implementando estrategias de categorización comercial y canales broadcast directos por WhatsApp.
