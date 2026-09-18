@@ -13,68 +13,63 @@ CABA, Buenos Aires | +54 9 11 6282-6650 | [afmoyano@proton.me](mailto:afmoyano@p
 
 ---
 
-## Professional Summary
-Commercial Executive with extensive experience in structuring B2B sales channels, key account management, and operational team leadership. I combine a solid track record in High-Ticket consultative selling with advanced technical skills (data analysis with Python, ERP systems, and process automation). This allows me to optimize the full sales cycle: from strategic outbound prospecting and corporate negotiation to customer retention and account expansion. Goal-oriented towards high-performance commercial metrics and sustainable portfolio growth in SMB and corporate environments.
+### PROFESSIONAL SUMMARY
 
-## Professional Experience
+**Seasoned B2B Sales & Account Management Professional** with extensive experience in business development, outbound prospecting, and key account management. Specialized in High-Ticket consultative sales, commercial channel structuring, and revenue growth across corporate, SMB, and international markets.
 
-### Inti Pet Shop SRL
-**Commercial Manager & B2B Account Manager** | February 2020 - July 2026
-* **Comprehensive Leadership & Account Management:** Led overall operations of the distribution company, managing an interdisciplinary team of 10 people (4 in commercial/admin, 6 in logistics).
-* **Digital Transformation & ERP Implementation:** Planned and executed the rollout of Flexxus Enterprise ERP, migrating commercial operations from traditional spreadsheets to a centralized, automated management system.
-* **B2B Portfolio Development & Retention:** Consolidated and segmented an active portfolio of 1,785 corporate and wholesale accounts nationwide, implementing commercial categorization strategies and direct broadcast channels via WhatsApp.
-* **Inventory & Purchasing Optimization:** Digitalized stock control under Just-in-Time (JIT) methodology, reducing tied-up capital through statistical demand forecasting.
-* **End-to-End Sales Cycle Management:** Oversaw the entire commercial channel: lead prospecting, credit terms negotiation, invoicing, dispatch, and post-sales tracking.
+Combines a strong results-driven approach with **advanced analytical and technical skills (Salesforce, Python for data-driven sales, and ERP systems)** to optimize the entire sales funnel—from prospect generation and data segmentation to contract negotiations, strategic procurement, cross-border operations, and long-term client retention.
 
-### La Cardeuse S.A.
-**Senior Sales Executive & Commercial Consultant** | January 2019 - January 2020
-* **High-Ticket Consultative Selling:** Provided personalized advisory to high-net-worth clients, closing high-end product solutions.
-* **Sales Pipeline Management:** Designed and implemented a follow-up tracking system for pending quotes, increasing lead conversion and recovering sales opportunities.
-* **Cross-Selling Strategy:** Led branch metrics in complementary high-margin product sales.
-* **Operational Control & Auditing:** Responsible for branch operations and stock audits in key locations, maintaining zero-deviation standards.
+### CORE COMPETENCIES & TOOLS
 
-### Grupo Carsa S.A.
-**Senior Sales Executive & Financial Products Consultant** | February 2012 - August 2018
-* **High Performance Sales:** Consistently ranked in the company's Top 10 national sales leaderboard, exceeding monthly revenue targets.
-* **Financial Products & Intangibles:** Specialized in high-margin financial products (insurance, extended warranties, and personal loans via Corefin S.A.).
-* **Team Training & Leadership:** Acted as a key commercial reference for management, conducting internal workshops on negotiation and sales techniques.
-* **Strategic Partnerships:** Promoted commercial agreements with key partners (Ticketek), diversifying branch income streams.
+* **Sales Strategy:** B2B/B2C Consultative Selling, Outbound Prospecting (Hunter), Corporate Negotiations, Cross-selling, Key Account Management & Retention.
+* **CRM & Commercial Tools:** **Salesforce** (Sales Cloud, object management, custom reporting & dashboards), Advanced Excel pipelines.
+* **Data Analytics & Automation:** **Python** (automated lead generation and scraping scripts), Commercial performance metrics & KPI tracking.
+* **Operations & Supply Chain:** ERP Systems (Flexxus Enterprise), Just-In-Time (JIT) Inventory Control, Vendor Management, Cross-border Operations.
+* **Languages:** English (Advanced/Fluent), Spanish (Native).
 
-## Business Development, B2B Consulting & Operations Experience
+### PROFESSIONAL EXPERIENCE
 
-### Estudio 2A
-**B2B Commercial & Outbound Prospecting Consultant** | 2024 - 2026
-* **Data-Driven Sales:** Developed custom Python scripts for automated data scraping, extraction, and lead segmentation targeting academic and publishing institutions across Ibero-America.
-* **New Business Unit Development (SaaS & Services):** Created and commercialized technical consulting services for the *gbpublisher* platform, expanding the B2B services portfolio.
+#### **Inti Pet Shop SRL** | *Commercial Director & B2B Account Manager*
+*February 2020 – July 2026*
+* **B2B Account Management & Growth:** Consolidated and segmented an active portfolio of **1,785 corporate and wholesale accounts** nationwide, implementing key customer categorization models and direct communication channels.
+* **Digital Transformation & ERP Implementation:** Led the full implementation of the Flexxus Enterprise ERP system, migrating sales operations from manual workflows to a centralized, automated platform.
+* **Operational Leadership:** Managed a cross-functional team of **10 direct reports** across commercial, administrative, and logistics departments.
+* **End-to-End Sales Operations:** Oversaw prospect identification, credit term negotiations, billing, dispatch operations, and post-sales retention strategies.
 
-### Letbar Asociados S.A.
-**Operations Coordinator & International Commercial Liaison** | 2007 - 2011
-* **International Operational Coordination:** Served as operational and commercial liaison between Argentina headquarters and branch offices in Spain and Mexico for the PR Vademecum catalog.
-* **Process Optimization:** Collaborated in developing a custom catalog management system, reducing response times for international branches.
+#### **Estudio 2A** | *B2B Sales Consultant & Outbound Prospector*
+*2024 – 2026*
+* **Data-Driven Lead Generation:** Developed custom Python scripts to automate, extract, and segment target institutional leads across Ibero-America within the academic and publishing sectors.
+* **Business Line Development (SaaS & Services):** Created and commercialized technical consulting services for the *gbpublisher* software tool, expanding B2B service offerings.
 
-### Ediciones Imago Mundi
-**Project Manager - Procurement & Operations** | 2015 - 2024
-* **Supply Chain & Procurement:** Cost control, direct vendor negotiations (printers, designers), and delivery timeline assurance.
+#### **La Cardeuse S.A.** | *Sales Executive & Consultative Sales Advisor (High-Ticket)*
+*January 2019 – January 2020*
+* **High-Ticket Consultative Selling:** Provided high-touch sales advice and closed transactions for premium products catering to high-net-worth clients.
+* **Conversion Rate Optimization:** Designed an open-quote follow-up system that significantly boosted conversion rates and recovered lost sales opportunities.
+* **Cross-Selling Performance:** Ranked first in internal cross-selling metrics for high-margin complementary product categories.
 
-## Core Competencies, Tools & Education
+#### **Grupo Carsa S.A.** | *Senior Sales Executive & Financial Products Advisor*
+*February 2012 – August 2018*
+* **Sales Performance Leader:** Consistently maintained a **Top 10 national sales ranking**, outperforming monthly billing targets and company KPIs.
+* **Financial Intangibles & Credit:** Specialized in high-yield financial solutions, including insurance, extended warranties, and personal consumer credit.
+* **Team Training & Mentorship:** Selected as a sales mentor to design and deliver internal negotiation and closing technique workshops for staff members.
 
-### Core Competencies
-* **B2B / B2C Commercial Management:** National portfolio development, consultative selling, outbound prospecting, account retention, and cross-selling.
-* **Financial & Commercial Operations:** Corporate negotiations, profitability analysis, invoicing, JIT inventory management, and budgeting.
-* **Strategic Leadership:** Interdisciplinary team management, vendor relations, and institutional client management.
+#### **Ediciones Imago Mundi** | *Project Manager & Vendor Relations Lead*
+*2015 – 2024* *(Consulting / Parallel Projects)*
+* **Supply Chain & Strategic Procurement:** Negotiated directly with key suppliers (printers, designers, external vendors) and executed cost-control strategies to maximize project margins.
+* **Operations Management:** Supervised delivery schedules, budget allocations, and quality control standards across publication projects.
 
-### Tech Tools & Systems
-* **CRM & Customer Management:** Salesforce (Sales Cloud, User Management, Custom Objects, Reports & Dashboards), CRM platforms.
-* **ERP & Operations:** Flexxus Enterprise, invoicing, and inventory control software.
-* **Data Analysis & CRM:** Python applied to sales prospecting (scraping/filtering scripts), Advanced MS Excel (pipeline building), CRM tools.
-* **Operating Systems:** Linux, macOS, Microsoft Windows.
+* **Letbar Asociados S.A.** | *Operations Coordinator & International Commercial Liaison*
+*2007 – 2011*
+* **International Operational Coordination:** Served as the operational and commercial liaison between headquarters in Argentina and international branches in Spain and Mexico for the PR Vademécum catalog.
+* **Process Optimization:** Co-developed and deployed a custom database management system, reducing response times for international regional branches.
 
-### Academic Background & Certifications
-* **Salesforce Essential Training for Administrators** - LinkedIn Learning (2026)
-* **Full Stack / Backend Developer** - Argentina Programa 4.0 / Egg Corporation (2023)
-* **Graphic Arts & Industry Technician** - Fundación Gutenberg (1998 - 2004)
-* **Languages:** English (Advanced level)
+### EDUCATION & CERTIFICATIONS
 
-### Complementary Skills
-* **Federated Chess Player (Torre Blanca Club):** Official 3rd Category competition. Strategic vision, high-pressure decision-making, and tactical analysis.
-* **Performing Arts / Theater:** Training in cultural centers. Public speaking, effective communication, persuasion, and stage presence.
+* **Salesforce Administrator Essential Course** | LinkedIn Learning (2026)
+* **Full Stack / Backend Software Developer** | Argentina Programa 4.0 / Egg Corporation (2023)
+* **Associate Degree in Graphic Arts & Industrial Management** | Fundación Gutenberg (1998 – 2004)
+
+### ADDITIONAL SKILLS & INTERESTS
+
+* **Federated Chess Player (Torre Blanca Chess Club):** 3rd Category Competitive Player. Enhances strategic foresight, tactical calculation, and decision-making under high-pressure scenarios.
+* **Performing Arts & Drama:** Formal theater training. Provides strong public speaking capabilities, persuasive communication skills, and executive presence in business meetings.
