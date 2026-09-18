@@ -12,75 +12,69 @@ CABA, Buenos Aires | +54 9 11 6282-6650 | [afmoyano@proton.me](mailto:afmoyano@p
 
 --- 
 
-## **Perfil profesional**
+### PERFIL PROFESIONAL
+**Ejecutivo comercial B2B con amplia trayectoria** en desarrollo de negocios, prospección *outbound* y gestión de cuentas corporativas. Especializado en venta consultiva *High-Ticket*, estructuración de canales comerciales y expansión de carteras en entornos corporativos, PyME e internacionales.
 
-Ejecutivo comercial con amplia trayectoria en la estructuración de canales de venta B2B, desarrollo de cuentas clave y liderazgo de equipos operativos. Combino una sólida experiencia en venta consultiva «High-Ticket» con habilidades técnicas avanzadas (análisis de datos con Python, sistemas ERP y herramientas de automatización), lo que me permite optimizar el ciclo completo de ventas: desde la prospección *outbound* estratégica y la negociación corporativa, hasta la fidelización y retención de clientes. Orientado al cumplimiento de objetivos comerciales de alto rendimiento y al crecimiento sostenible de carteras de clientes en entornos PyME y corporativos.
-
----
-
-## **Experiencia laboral**
-
-### **Inti Pet Shop SRL**
-**Responsable comercial y gestor de cuentas B2B** | Febrero de 2020 – Julio de 2026
-* **Liderazgo integral y gestión de cuentas:** Conducción directa de la operación general de la distribuidora, liderando un equipo interdisciplinario de 10 personas (4 en área comercial y administrativa, 6 en logística).
-* **Transformación digital e implementación ERP:** Planificación y puesta en marcha del ERP Flexxus Enterprise, migrando los procesos comerciales desde planillas tradicionales a una gestión centralizada y automatizada.
-* **Desarrollo y fidelización de cartera B2B:** Consolidación y segmentación de una cartera activa de 1785 clientes corporativos y mayoristas a nivel nacional, implementando estrategias de categorización comercial y canales broadcast directos por WhatsApp.
-* **Optimización de inventario y compras:** Digitalización del control de stock bajo metodología *Just In Time* (JIT), reduciendo el capital inmovilizado mediante el análisis estadístico de la demanda.
-* **Gestión integral del ciclo de venta:** Supervisión completa del canal comercial: prospección, negociación de condiciones crediticias, facturación, despacho logístico y seguimiento posventa.
-
-### **La Cardeuse S.A.**
-**Ejecutivo de ventas y asesor comercial** | Enero de 2019 – Enero de 2020
-* **Venta consultiva «High-Ticket»:** Asesoramiento personalizado a clientes de alto poder adquisitivo, gestionando ventas integrales de productos de gama alta.
-* **Gestión del pipeline comercial:** Diseño e implementación de un sistema de seguimiento de presupuestos no cerrados, incrementando la conversión de *leads* y recuperando oportunidades de negocio.
-* **Estrategia de venta cruzada (*Cross-selling*):** Liderazgo en métricas de venta de productos complementarios de mayor margen de rentabilidad para la compañía.
-* **Control operativo y de inventarios:** Responsable directo de la operación comercial y auditorías de stock en sucursales clave, manteniendo estándares de cero desvíos.
-
-### **Grupo Carsa S.A.**
-**Vendedor senior y asesor comercial de intangibles** | Febrero de 2012 – Agosto de 2018
-* **Alto rendimiento comercial:** Posicionamiento sostenido en el *Top 10* de ventas a nivel nacional de la compañía, superando métricas de facturación y objetivos mensuales.
-* **Comercialización de intangibles y créditos:** Especialización en la colocación de productos financieros de alta rentabilidad (seguros, garantías extendidas y créditos personales a través de Corefin S.A.).
-* **Capacitación y liderazgo de equipos:** Referente comercial para la gerencia, dictando talleres internos de negociación y técnicas de venta para el equipo de colaboradores.
-* **Desarrollo de nuevas alianzas:** Impulso de acuerdos comerciales con socios estratégicos (Ticketek), diversificando los ingresos de la sucursal.
+Combino un perfil orientado a resultados con **herramientas analíticas avanzadas (Salesforce, Python para *data-driven sales* y ERPs)**, lo que me permite optimizar el embudo completo de ventas: desde la generación y segmentación de *leads* hasta la negociación final, compras estratégicas, operaciones internacionales y retención de clientes.
 
 ---
 
-## **Experiencia en desarrollo de negocios, consultoría B2B y operaciones**
+### COMPETENCIAS Y HERRAMIENTAS CLAVE
 
-### **Estudio 2A**
-**Consultor comercial B2B y prospección *outbound*** | 2024 – 2026
-* **Prospección basada en datos (*Data-driven sales*):** Desarrollo de scripts en Python para la automatización, extracción y segmentación de potenciales clientes institucionales en Iberoamérica dentro del sector académico y editorial.
-* **Desarrollo de unidades de negocio (SaaS y servicios):** Creación y comercialización de la línea de servicios de consultoría técnica para la herramienta *gbpublisher*, expandiendo la oferta B2B.
-
-### **Letbar Asociados S.A.**
-**Coordinador de operaciones e interfaz comercial internacional** | 2007 – 2011
-* **Coordinación operativa internacional:** Enlace operativo y comercial entre la sede central de Argentina y las filiales de España y México para la gestión del catálogo del PR Vademécum.
-* **Optimización de procesos:** Colaboración en el desarrollo e implementación de un sistema a medida para el catálogo de obras, reduciendo los tiempos de respuesta a filiales internacionales.
-
-### **Ediciones Imago Mundi**
-**Gestor de proyectos y negociación con proveedores** | 2015 – 2024
-* **Cadena de suministro y compras:** Control de costos, negociación directa con proveedores clave (impresores, diseñadores) y aseguramiento de cronogramas de entrega.
+* **Estrategia Comercial:** Venta consultiva B2B/B2C, Prospección Outbound (Hunter), Negociación Corporativa, Venta Cruzada (Cross-selling), Retención de Cuentas (Account Management).
+* **CRM & Herramientas Comerciales:** **Salesforce** (Sales Cloud, gestión de objetos, reportes y dashboards), pipelines en Excel avanzado.
+* **Análisis de Datos & Automatización:** **Python** (scripts de extracción y filtrado para generación de prospectos), análisis de métricas comerciales.
+* **Gestión Operativa y Suministros:** Sistemas ERP (Flexxus Enterprise), Control de Stock (JIT), Negociación con Proveedores, Interfaz comercial internacional.
+* **Idiomas:** Inglés Avanzado.
 
 ---
 
-## **Competencias, herramientas y formación**
+### EXPERIENCIA LABORAL
 
-### **Competencias clave**
-* **Gestión comercial B2B / B2C:** Desarrollo de carteras nacionales, venta consultiva, prospección *outbound*, retención y venta cruzada (*Cross-selling*).
-* **Gestión operativa y financiero-comercial:** Negociación corporativa, análisis de rentabilidad, facturación, gestión de inventarios JIT y presupuestación.
-* **Liderazgo estratégico:** Conducción de equipos interdisciplinarios, gestión de proveedores y relación con clientes institucionales.
+#### **Inti Pet Shop SRL** | *Responsable Comercial & Gestor de Cuentas B2B*
+*Febrero 2020 – Julio 2026*
+* **Desarrollo de Cartera B2B:** Consolidé y segmenté una cartera activa de **1.785 clientes corporativos y mayoristas** a nivel nacional, definiendo estrategias de categorización comercial y canales directos de fidelización.
+* **Transformación Digital & CRM/ERP:** Planifiqué e implementé el ERP Flexxus Enterprise, migrando la operación comercial desde procesos manuales hacia una gestión centralizada y automatizada.
+* **Liderazgo Operativo:** Conducción directa de un equipo interdisciplinario de **10 personas** (áreas comercial, administrativa y logística).
+* **Ciclo Completo de Ventas:** Supervisión directa de prospección, negociación crediticia, facturación, despacho y seguimiento posventa.
 
-### **Herramientas tecnológicas**
-* **CRM y gestión de clientes:** Salesforce (Sales Cloud, administración de usuarios, gestión de objetos, reportes y dashboards), herramientas de CRM.
-* **ERP y gestión operativa:** Flexxus Enterprise, software de facturación y control de stock.
-* **Análisis de datos y CRM:** Python aplicado a la prospección comercial (desarrollo de scripts de búsqueda/filtrado), Microsoft Excel avanzado (armado de *pipelines*), herramientas de CRM.
-* **Entornos operacionales:** Dominio avanzado de Linux, macOS y Microsoft Windows.
+#### **Estudio 2A** | *Consultor Comercial B2B & Prospección Outbound*
+*2024 – 2026*
+* **Prospección Data-Driven:** Desarrollé scripts en Python para la automatización, extracción y segmentación de potenciales clientes institucionales en Iberoamérica dentro del sector académico/editorial.
+* **Desarrollo de Negocios (SaaS/Servicios):** Creé y comercialicé la línea de consultoría técnica para la herramienta *gbpublisher*, expandiendo la oferta de servicios B2B.
 
-### **Formación académica y certificaciones**
-* **Curso Salesforce para administradores esencial** - LinkedIn Learning (2026).
-* **Programador Full Stack / Backend** - Argentina Programa 4.0 / Egg Corporation (2023).
-* **Técnico en Industria y Artes Gráficas** - Fundación Gutenberg (1998 – 2004).
-* **Idiomas:** Inglés nivel avanzado.
+#### **La Cardeuse S.A.** | *Ejecutivo de Ventas & Asesor Comercial (High-Ticket)*
+*Enero 2019 – Enero 2020*
+* **Venta Consultiva High-Ticket:** Asesoramiento personalizado y cierre de ventas integrales de productos gama alta para clientes de alto poder adquisitivo.
+* **Optimización de Conversión:** Diseñé un sistema de seguimiento de presupuestos abiertos, incrementando la tasa de conversión y recuperando oportunidades de negocio.
+* **Venta Cruzada:** Lideré las métricas internas en ventas complementarias de alto margen de rentabilidad para la compañía.
 
-### **Intereses y competencias complementarias**
-* **Ajedrez federado (Club Torre Blanca):** Competición oficial de 3.ª categoría. Aporta visión estratégica, toma de decisiones bajo presión y análisis táctico.
-* **Artes escénicas / Teatro:** Formación en centros culturales. Aporta soltura en oratoria, comunicación efectiva, persuasión y presentaciones públicas.
+#### **Grupo Carsa S.A.** | *Vendedor Senior & Asesor Comercial de Intangibles*
+*Febrero 2012 – Agosto 2018*
+* **Rendimiento Comercial:** Posicionamiento sostenido en el **Top 10 de ventas a nivel nacional**, superando sistemáticamente los objetivos mensuales de facturación.
+* **Comercialización de Intangibles:** Especialización en productos financieros y de alta rentabilidad (seguros, garantías extendidas y créditos personales a través de Corefin S.A.).
+* **Capacitación y Liderazgo:** Referente comercial para la gerencia, dictando talleres internos de negociación y técnicas de venta para el equipo de colaboradores.
+
+#### **Ediciones Imago Mundi** | *Gestor de Proyectos & Negociación con Proveedores*
+*2015 – 2024* *(Consultoría / Proyectos paralelos)*
+* **Cadena de Suministro y Compras:** Negociación directa con proveedores clave (impresores, diseñadores) y control de costos para garantizar rentabilidad en proyectos.
+* **Gestión Operativa:** Planificación y aseguramiento de cronogramas de entrega y estándares de calidad en la producción.
+
+#### **Letbar Asociados S.A.** | *Coordinador de Operaciones e Interfaz Comercial Internacional*
+*2007 – 2011*
+* **Coordinación Operativa Internacional:** Enlace operativo y comercial entre la sede central de Argentina y las filiales de España y México para la gestión del catálogo del PR Vademécum.
+* **Optimización de Procesos:** Colaboración en el desarrollo e implementación de un sistema a medida para el catálogo de obras, reduciendo los tiempos de respuesta a filiales internacionales.
+
+---
+
+### EDUCACIÓN Y CERTIFICACIONES
+
+* **Curso Salesforce para Administradores Esencial** | LinkedIn Learning (2026)
+* **Programador Full Stack / Backend** | Argentina Programa 4.0 / Egg Corporation (2023)
+* **Técnico en Industria y Artes Gráficas** | Fundación Gutenberg (1998 – 2004)
+
+---
+
+### HABILIDADES COMPLEMENTARIAS
+* **Ajedrez Federado (Club Torre Blanca):** Jugador de 3.ª categoría. Aporta visión estratégica, cálculo táctico y toma de decisiones en entornos de presión.
+* **Artes Escénicas / Teatro:** Aporta dominio de la oratoria, comunicación persuasiva y manejo situacional en reuniones comerciales.
