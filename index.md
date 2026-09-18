@@ -70,7 +70,8 @@ Ejecutivo comercial con amplia trayectoria en la estructuración de canales de v
 * **Liderazgo estratégico:** Conducción de equipos interdisciplinarios, gestión de proveedores y relación con clientes institucionales.
 
 ### **Herramientas tecnológicas**
-* **ERP y CRM:** Flexxus Enterprise, **Salesforce** (administración esencial), software de facturación y control de stock.
+* **CRM y gestión de clientes:** Salesforce (Sales Cloud, administración de usuarios, gestión de objetos, reportes y dashboards), herramientas de CRM.
+* **ERP y gestión operativa:** Flexxus Enterprise, software de facturación y control de stock.
 * **Análisis de datos y CRM:** Python aplicado a la prospección comercial (desarrollo de scripts de búsqueda/filtrado), Microsoft Excel avanzado (armado de *pipelines*), herramientas de CRM.
 * **Entornos operacionales:** Dominio avanzado de Linux, macOS y Microsoft Windows.
 
