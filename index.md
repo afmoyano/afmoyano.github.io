@@ -6,10 +6,11 @@ description: "Perfil profesional de Alejandro Federico Moyano. Especialista en v
 
 [ 🇪🇸 Español | [🇬🇧 English Version](https://afmoyano.github.io/en) ]
 
-**Ejecutivo de cuentas B2B | Desarrollo de negocios y ventas corporativas**  
-CABA, Buenos Aires | +54 9 11 6282-6650 | [afmoyano@proton.me](mailto:afmoyano@proton.me) | [Perfil de LinkedIn](https://www.linkedin.com/in/alejandro-federico-moyano) | [Portafolio web](https://afmoyano.github.io/)
+<h2>Ejecutivo de cuentas B2B | Desarrollo de negocios y ventas corporativas</h2>
 
---- 
+CABA, Buenos Aires • +54 9 11 6282-6650 • [afmoyano@proton.me](mailto:afmoyano@proton.me) • [Perfil de LinkedIn](https://www.linkedin.com/in/alejandro-federico-moyano) • [Portafolio web](https://afmoyano.github.io/)
+
+---
 
 ### PERFIL PROFESIONAL
 **Ejecutivo comercial B2B con amplia trayectoria** en desarrollo de negocios, prospección *outbound* y gestión de cuentas corporativas. Especializado en venta consultiva *High-Ticket*, estructuración de canales comerciales y expansión de carteras en entornos corporativos, PyME e internacionales.
