@@ -7,9 +7,9 @@ permalink: /en/
 
 [ [🇪🇸 Versión en Español](https://afmoyano.github.io/) | 🇬🇧 English Version ]
 
-# **Alejandro Federico Moyano**
-**B2B Account Manager | Business Development & Corporate Sales Executive**  
-CABA, Buenos Aires | +54 9 11 6282-6650 | [afmoyano@proton.me](mailto:afmoyano@proton.me) | [LinkedIn Profile](https://www.linkedin.com/in/alejandro-federico-moyano) | [Web Portfolio](https://afmoyano.github.io/en)
+<h2>B2B Account Manager | Business Development & Corporate Sales Executive</h2>
+
+CABA, Buenos Aires • +54 9 11 6282-6650 • [afmoyano@proton.me](mailto:afmoyano@proton.me) • [LinkedIn Profile](https://www.linkedin.com/in/alejandro-federico-moyano) • [Web Portfolio](https://afmoyano.github.io/en)
 
 ---
 
