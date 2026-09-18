@@ -19,6 +19,8 @@ CABA, Buenos Aires | +54 9 11 6282-6650 | [afmoyano@proton.me](mailto:afmoyano@p
 
 Combines a strong results-driven approach with **advanced analytical and technical skills (Salesforce, Python for data-driven sales, and ERP systems)** to optimize the entire sales funnel—from prospect generation and data segmentation to contract negotiations, strategic procurement, cross-border operations, and long-term client retention.
 
+---
+
 ### CORE COMPETENCIES & TOOLS
 
 * **Sales Strategy:** B2B/B2C Consultative Selling, Outbound Prospecting (Hunter), Corporate Negotiations, Cross-selling, Key Account Management & Retention.
@@ -58,7 +60,7 @@ Combines a strong results-driven approach with **advanced analytical and technic
 * **Supply Chain & Strategic Procurement:** Negotiated directly with key suppliers (printers, designers, external vendors) and executed cost-control strategies to maximize project margins.
 * **Operations Management:** Supervised delivery schedules, budget allocations, and quality control standards across publication projects.
 
-* **Letbar Asociados S.A.** | *Operations Coordinator & International Commercial Liaison*
+#### **Letbar Asociados S.A.** | *Operations Coordinator & International Commercial Liaison*
 *2007 – 2011*
 * **International Operational Coordination:** Served as the operational and commercial liaison between headquarters in Argentina and international branches in Spain and Mexico for the PR Vademécum catalog.
 * **Process Optimization:** Co-developed and deployed a custom database management system, reducing response times for international regional branches.
