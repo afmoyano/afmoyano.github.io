@@ -92,7 +92,7 @@ Markdown
 * **Operating Systems:** Advanced proficiency in Linux, macOS, and Microsoft Windows.
 
 ### Education & Certifications
-* **Salesforce Essential Training for Administrators** - LinkedIn Learning (2026) | [View certificate](https://www.linkedin.com/learning/certificates/e8a8432e83f9ca969228d06cb33fc159a6f1de6cf1980814f876279a552bc5a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWMP%2Bp%2BNGS7qfgnMrk4Xwmg%3D%3D)
+* **Salesforce Essential Training for Administrators** - [LinkedIn Learning (2026)] (https://www.linkedin.com/learning/certificates/e8a8432e83f9ca969228d06cb33fc159a6f1de6cf1980814f876279a552bc5a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWMP%2Bp%2BNGS7qfgnMrk4Xwmg%3D%3D)
 * **Full Stack / Backend Developer** - Argentina Programa 4.0 / Egg Corporation.
 * **Technical Degree in Graphic Arts and Industry** - Fundación Gutenberg (1998 – 2004).
 * **Languages:** Advanced English proficiency.
