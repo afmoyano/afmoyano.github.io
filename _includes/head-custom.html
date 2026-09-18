@@ -10,7 +10,7 @@
   <meta http-equiv="content-language" content="es" />
 {% endif %}
 
-<!-- Open Graph para vistas previas en LinkedIn, WhatsApp y redes sociales -->
+<!-- Open Graph para vistas previas en redes sociales -->
 <meta property="og:title" content="{{ page.title | replace: '|', '-' }}" />
 {% if page.description %}
 <meta property="og:description" content="{{ page.description }}" />
@@ -24,16 +24,46 @@
 <!-- Estilos optimizados para exportación a PDF (Ctrl + P) -->
 <style>
 @media print {
-  /* Oculta la columna/header lateral del tema Jekyll */
-  header, 
+  /* Oculta elementos secundarios del tema Jekyll */
   .downloads,
-  footer {
+  footer,
+  header p,
+  header ul {
     display: none !important;
   }
 
-  /* Ajusta márgenes y formato de lectura en hoja A4 */
+  /* Mantiene visible únicamente la cabecera del nombre */
+  header {
+    display: block !important;
+    position: static !important;
+    width: 100% !important;
+    margin-bottom: 12px !important;
+    padding: 0 !important;
+  }
+
+  /* Formato para el nombre principal al imprimir */
+  header h1 {
+    margin: 0 0 6px 0 !important;
+    font-size: 22pt !important;
+    line-height: 1.1 !important;
+  }
+
+  header h1 a {
+    color: #000 !important;
+    text-decoration: none !important;
+    font-weight: bold !important;
+  }
+
+  /* Oculta los enlaces de conmutación de idioma en el documento PDF */
+  p:first-of-type:has(a[href*="afmoyano.github.io"]),
+  p:first-of-type:contains("Español"),
+  p:first-of-type:contains("English") {
+    display: none !important;
+  }
+
+  /* Configuración general de página A4 */
   body {
-    font-size: 10.5pt;
+    font-size: 10pt;
     line-height: 1.35;
     color: #000 !important;
     background: #fff !important;
@@ -41,7 +71,6 @@
     padding: 0;
   }
 
-  /* Ocupa todo el ancho de página disponible */
   section, .wrapper, main {
     width: 100% !important;
     max-width: 100% !important;
@@ -50,20 +79,14 @@
     float: none !important;
   }
 
-  /* Mantiene los encabezados junto a sus bloques de contenido */
-  h1, h2, h3, h4, ul {
+  /* Evita cortes incómodos de página en las experiencias */
+  h2, h3, h4, ul {
     page-break-inside: avoid;
   }
 
-  /* Formato limpio de enlaces sin imprimir URLs explícitas */
   a {
     color: #000 !important;
     text-decoration: none !important;
-  }
-
-  /* Oculta los enlaces de conmutación de idioma en el documento impreso */
-  p:has(a[href*="afmoyano.github.io"]) {
-    display: none !important;
   }
 }
 </style>
