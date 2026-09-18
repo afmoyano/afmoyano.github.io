@@ -70,9 +70,9 @@ Commercial Executive with extensive experience in structuring B2B sales channels
 * **Operating Systems:** Linux, macOS, Microsoft Windows.
 
 ### Academic Background & Certifications
-* **Graphic Arts & Industry Technician** - Fundación Gutenberg (1998 - 2004)
 * **Salesforce Essential Training for Administrators** - LinkedIn Learning (2026)
 * **Full Stack / Backend Developer** - Argentina Programa 4.0 / Egg Corporation (2023)
+* **Graphic Arts & Industry Technician** - Fundación Gutenberg (1998 - 2004)
 * **Languages:** English (Advanced level)
 
 ### Complementary Skills
