@@ -64,13 +64,15 @@ Commercial Executive with extensive experience in structuring B2B sales channels
 * **Strategic Leadership:** Interdisciplinary team management, vendor relations, and institutional client management.
 
 ### Tech Tools & Systems
-* **ERP & Management Systems:** Flexxus Enterprise, invoicing, and inventory control software.
+* **CRM & Customer Management:** Salesforce (Sales Cloud, User Management, Custom Objects, Reports & Dashboards), CRM platforms.
+* **ERP & Operations:** Flexxus Enterprise, invoicing, and inventory control software.
 * **Data Analysis & CRM:** Python applied to sales prospecting (scraping/filtering scripts), Advanced MS Excel (pipeline building), CRM tools.
 * **Operating Systems:** Linux, macOS, Microsoft Windows.
 
 ### Academic Background & Certifications
 * **Graphic Arts & Industry Technician** - Fundación Gutenberg (1998 - 2004)
-* **Full Stack / Backend Developer** - Argentina Programa 4.0 / Egg Corporation
+* **Salesforce Essential Training for Administrators** - LinkedIn Learning (2026)
+* **Full Stack / Backend Developer** - Argentina Programa 4.0 / Egg Corporation (2023)
 * **Languages:** English (Advanced level)
 
 ### Complementary Skills
