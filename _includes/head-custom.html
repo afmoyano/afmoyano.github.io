@@ -20,3 +20,50 @@
 <meta property="og:site_name" content="Alejandro Federico Moyano" />
 <meta property="og:image" content="{{ "/foto-alejandro-moyano.jpg" | absolute_url }}" />
 <meta name="google-site-verification" content="G0D7NRW2oq3DJHxorLVXqeM9Cpt4ZNM_0Zvd25qlFzI" />
+
+<!-- Estilos optimizados para exportación a PDF (Ctrl + P) -->
+<style>
+@media print {
+  /* Oculta la columna/header lateral del tema Jekyll */
+  header, 
+  .downloads,
+  footer {
+    display: none !important;
+  }
+
+  /* Ajusta márgenes y formato de lectura en hoja A4 */
+  body {
+    font-size: 10.5pt;
+    line-height: 1.35;
+    color: #000 !important;
+    background: #fff !important;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Ocupa todo el ancho de página disponible */
+  section, .wrapper, main {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    float: none !important;
+  }
+
+  /* Mantiene los encabezados junto a sus bloques de contenido */
+  h1, h2, h3, h4, ul {
+    page-break-inside: avoid;
+  }
+
+  /* Formato limpio de enlaces sin imprimir URLs explícitas */
+  a {
+    color: #000 !important;
+    text-decoration: none !important;
+  }
+
+  /* Oculta los enlaces de conmutación de idioma en el documento impreso */
+  p:has(a[href*="afmoyano.github.io"]) {
+    display: none !important;
+  }
+}
+</style>
