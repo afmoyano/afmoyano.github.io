@@ -25,7 +25,7 @@ Combino un perfil orientado a resultados con **herramientas analíticas avanzada
 * **CRM & Herramientas Comerciales:** **Salesforce** (Sales Cloud, gestión de objetos, reportes y dashboards), pipelines en Excel avanzado.
 * **Análisis de Datos & Automatización:** **Python** (scripts de extracción y filtrado para generación de prospectos), análisis de métricas comerciales.
 * **Gestión Operativa y Suministros:** Sistemas ERP (Flexxus Enterprise), Control de Stock (JIT), Negociación con Proveedores, Interfaz comercial internacional.
-* **Idiomas:** Inglés Avanzado.
+* **Idiomas:** Español (Nativo), Inglés (Avanzado).
 
 ---
 
