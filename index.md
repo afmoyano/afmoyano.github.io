@@ -70,13 +70,13 @@ Ejecutivo comercial con amplia trayectoria en la estructuración de canales de v
 * **Liderazgo estratégico:** Conducción de equipos interdisciplinarios, gestión de proveedores y relación con clientes institucionales.
 
 ### **Herramientas tecnológicas**
-* * **ERP y CRM:** Flexxus Enterprise, **Salesforce** (administración esencial), software de facturación y control de stock.
+* **ERP y CRM:** Flexxus Enterprise, **Salesforce** (administración esencial), software de facturación y control de stock.
 * **Análisis de datos y CRM:** Python aplicado a la prospección comercial (desarrollo de scripts de búsqueda/filtrado), Microsoft Excel avanzado (armado de *pipelines*), herramientas de CRM.
 * **Entornos operacionales:** Dominio avanzado de Linux, macOS y Microsoft Windows.
 
 ### **Formación académica y certificaciones**
 * **Técnico en Industria y Artes Gráficas** - Fundación Gutenberg (1998 – 2004).
-* **Curso Salesforce para administradores esencial** - LinkedIn Learning (2026) | [Ver certificado](https://www.linkedin.com/learning/certificates/e8a8432e83f9ca969228d06cb33fc159a6f1de6cf1980814f876279a552bc5a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWMP%2Bp%2BNGS7qfgnMrk4Xwmg%3D%3D)
+* **Curso Salesforce para administradores esencial** - [LinkedIn Learning (2026)] (https://www.linkedin.com/learning/certificates/e8a8432e83f9ca969228d06cb33fc159a6f1de6cf1980814f876279a552bc5a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWMP%2Bp%2BNGS7qfgnMrk4Xwmg%3D%3D)
 * **Programador Full Stack / Backend** - Argentina Programa 4.0 / Egg Corporation.
 * **Técnico en Industria y Artes Gráficas** - Fundación Gutenberg (1998 – 2004).
 * **Idiomas:** Inglés nivel avanzado.
